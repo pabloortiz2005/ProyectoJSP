@@ -1,0 +1,16 @@
+Servlet\AgregarProyectoServlet.class
+Servlet\ListarProyectosServlet.class
+Servlet\ListarTareasServlet2.class
+Servlet\SeleccionarRolServlet.class
+com\mycompany\jsp\JakartaRestConfiguration.class
+Servlet\ListarTareasServlet.class
+Servlet\ListarProyectosServlet2.class
+Servlet\AgregarTareaServlet.class
+Util\HibernateUtil.class
+DAO\ProyectoDAO.class
+Entities\Estado.class
+com\mycompany\jsp\resources\JakartaEE8Resource.class
+DAO\TareaDAO.class
+Entities\Tareas.class
+Servlet\IndexServlet.class
+Entities\Proyectos.class
