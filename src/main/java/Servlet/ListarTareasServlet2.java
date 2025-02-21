@@ -19,6 +19,7 @@ import javax.servlet.http.HttpServletResponse;
  *
  * @author alumno
  */
+//Servlet para listar las tareas hecho para el usuario
 @WebServlet(name = "ListarTareasServlet2", urlPatterns = {"/ListarTareas2"})
 public class ListarTareasServlet2 extends javax.servlet.http.HttpServlet {
 
